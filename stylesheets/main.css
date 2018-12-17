@@ -1,0 +1,44 @@
+html {
+  min-height: 100vh;
+  max-height: 100vh;
+  padding: 0px;
+}
+
+body {
+  display: flex;
+  background: url('./Ocean.png');
+  text-align: center;
+  color: white;
+  align-content: center;
+  justify-content: center;
+  height: 100%;
+  width: 100%;
+}
+
+.content-container {
+  margin-top: 400px;
+  flex: 0 1 auto;
+}
+
+.fa {
+  color: white;
+}
+
+h1 {
+  font-size: 60px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 30px;
+}
+
+#join-button {
+  width: 200px;
+  background-color: orange;
+  color: white;
+  height: 50px;
+  border-radius: 25px;
+  font-weight: bold;
+  border: none;
+}
