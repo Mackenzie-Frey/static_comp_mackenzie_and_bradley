@@ -16,12 +16,13 @@ body {
 }
 
 .content-container {
-  margin-top: 400px;
+  margin-top: 200px;
   flex: 0 1 auto;
 }
 
-.fa {
+.fab {
   color: white;
+  font-size: 200px;
 }
 
 h1 {
